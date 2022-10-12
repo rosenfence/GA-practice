@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-65-rosenfence \
             --delete
-        working-directory: ./GA-practice
+        working-directory: ./my-agora-states-client
