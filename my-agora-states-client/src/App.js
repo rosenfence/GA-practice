@@ -49,7 +49,7 @@ function App() {
 
   return (
     <>
-      <h1>TEST</h1>
+      <h1>군필여고생 질문받아요 하와와</h1>
       <Form addDiscussion={addDiscussion}></Form>
       <Discussions
         discussions={discussions}
